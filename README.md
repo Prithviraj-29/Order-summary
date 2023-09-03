@@ -1,3 +1,5 @@
+Live : https://gleaming-truffle-97cb46.netlify.app/
+
 # Frontend Mentor - Order summary card
 
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
